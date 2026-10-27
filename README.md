@@ -11,7 +11,7 @@ Databricks · Microsoft Fabric · Azure · SQL · Python · Power BI
 
 I build pipelines that turn raw data into tables people can trust, then put them in front of decision makers as dashboards.
 
-I'm a Databricks Certified Data Engineer Associate with 4+ years on Databricks and Azure, plus hands-on Microsoft Fabric. I started in banking software at TCS, moved into data engineering at HCLTech, Fulcrum Digital and Cognizant, and I'm now an Operations Data Analyst intern at the Data & AI Institute, working in Power BI, SQL and BigQuery.
+I'm a Databricks Certified Data Engineer Associate with 4+ years on Databricks and Azure, plus hands-on Microsoft Fabric. I started in banking software at TCS, moved into data engineering at HCLTech, Fulcrum Digital and Cognizant, and I'm now an Operations Data Analyst at the Data & AI Institute, working in Power BI, SQL and BigQuery.
 
 **I'm open to new Data Analyst and Data Engineer roles in Melbourne.**
 
@@ -29,10 +29,10 @@ I'm a Databricks Certified Data Engineer Associate with 4+ years on Databricks a
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| [Insurance Claims Lakehouse](https://github.com/Aashima-91/insurance_claims) | Incremental medallion pipeline turning claims, policy, payment, weather and fraud data into a tested star schema | Databricks · PySpark · Delta Lake · Unity Catalog |
-| [BikeMart Data Warehouse](https://github.com/Aashima-91/bikemart-databricks-dwh) | Bronze, Silver and Gold lakehouse for a bike retailer, deployed and tested with CI/CD | Databricks · Spark SQL · GitHub Actions |
 | [Fabric Sales Analytics](https://github.com/Aashima-91/fabric-sales-analytics) | End-to-end sales analytics from ingestion to a Power BI report, processing 32,718 transactions | Microsoft Fabric · PySpark · Power BI |
 | [Worldwide Earthquake Analytics](https://github.com/Aashima-91/fabric-earthquake-analytics) | Live USGS data through a medallion Lakehouse to a Power BI map, refreshed daily | Microsoft Fabric · Data Factory · Power BI |
+| [Insurance Claims Lakehouse](https://github.com/Aashima-91/insurance_claims) | Incremental medallion pipeline turning claims, policy, payment, weather and fraud data into a tested star schema | Databricks · Medallion Architecture · PySpark · Delta Lake · Unity Catalog |
+| [BikeMart Data Warehouse](https://github.com/Aashima-91/bikemart-databricks-dwh) | Bronze, Silver and Gold lakehouse for a bike retailer, deployed and tested with CI/CD | Databricks · Medallion Architecture · Spark SQL · GitHub Actions |
 
 ## How I work
 
