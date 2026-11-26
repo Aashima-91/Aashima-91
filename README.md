@@ -47,4 +47,4 @@ I'm a Databricks Certified Data Engineer Associate with 4+ years on Databricks a
 📍 Melbourne, Australia
 ✉️ [aashima91.gupta@gmail.com](mailto:aashima91.gupta@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/aashima-gupta-860190117/)
-🌐 [Portfolio](https://aashima-91.github.io/aashimagupta.github.io/)
+🌐 [Portfolio](https://aashima-91.github.io/)
