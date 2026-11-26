@@ -3,7 +3,7 @@
 **Data Engineer · Melbourne, Australia**
 Databricks · Microsoft Fabric · Azure · SQL · Python · Power BI
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aashima-91.github.io-B87333?style=for-the-badge)](https://aashima-91.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aashima--91.github.io-B87333?style=for-the-badge)](https://aashima-91.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashima-gupta-860190117/)
 [![Email](https://img.shields.io/badge/Email-aashima91.gupta@gmail.com-6B4700?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aashima91.gupta@gmail.com)
 
